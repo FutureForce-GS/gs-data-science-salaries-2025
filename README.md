@@ -122,23 +122,28 @@ Investigar os fatores que influenciam a remuneração de profissionais de Ciênc
 
 ### Sugestões de Imagens para o README
 
-1. **`distribuicao_salarios.png`**
+1. **Métricas Descritivas de Salário**
+  <img src='reports/distribuicao_salarios.png'>
    - Histograma + Boxplot de salários
    - Captura: Seção 3.1 do notebook
 
-2. **`experiencia_boxplot.png`**
+3. **Análise por Nível de Experiência`**
+   <img src='reports/distribuicao_salarial_nivel_exp.png'>
    - Boxplot por nível de experiência
    - Captura: Seção 3.2
 
-3. **`trabalho_remoto_boxplot.png`**
+5. **Correlação entre Work Models (Remoto) e Salário**
+   <img src='reports/distribuicao_salarial_modelo.png'>
    - Comparação On-site vs Remote vs Hybrid
    - Captura: Seção 3.7
 
-4. **`matriz_confusao.png`**
+7. **Matriz de Confusão - Regressão Logística**
+   <img src='reports/matriz_confusao_reg_log.png'>
    - Matriz de confusão do modelo logístico
    - Captura: Seção 4.3
 
-5. **`curva_roc.png`**
+9. **Curva ROC - Regressão Logística**
+    <img src='reports/curva_roc_reg_log.png'>
    - Curva ROC (AUC = 0.80)
    - Captura: Final da seção 4.3
 
