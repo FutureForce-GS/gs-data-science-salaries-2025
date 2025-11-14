@@ -89,7 +89,7 @@ Investigar os fatores que influenciam a remuneração de profissionais de Ciênc
 
 ---
 
-## 🔍 Principais Descobertas
+## 🔍 Principais Descobertas (Salário Anual USD)
 
 ### 💰 Estatísticas Gerais
 - **Média salarial:** $145.560
@@ -109,7 +109,7 @@ Investigar os fatores que influenciam a remuneração de profissionais de Ciênc
 - **Remote:** $140.550
 - **Hybrid:** $83.293
 
-### 🌍 Top 5 Países (Média Salarial)
+### 🌍 Top 5 Países (Média Salarial Anual)
 1. Qatar
 2. Israel
 3. United States
