@@ -120,8 +120,6 @@ Investigar os fatores que influenciam a remuneração de profissionais de Ciênc
 
 ## 📸 Visualizações
 
-### Sugestões de Imagens para o README
-
 1. **Métricas Descritivas de Salário**
   <img src='reports/distribuicao_salarios.png'>
    - Histograma + Boxplot de salários
