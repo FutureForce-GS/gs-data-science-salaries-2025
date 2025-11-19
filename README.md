@@ -158,7 +158,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels imbalanced-
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/data-science-salary-analysis.git
+git clone https://github.com/FutureForce-GS/data-science-salaries-2025.git
 ```
 
 2. Acesse a pasta:
