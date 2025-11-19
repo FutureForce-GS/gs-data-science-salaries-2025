@@ -164,7 +164,7 @@ git clone https://github.com/FutureForce-GS/data-science-salaries-2025.git
 2. Acesse a pasta:
 
 ```bash
-cd data-science-salary-analysis
+cd data-science-salaries-2025
 ```
 
 3. Abra o notebook:
